@@ -5,4 +5,7 @@
 * Nuestra página Web está destinada a trabajadores de la NASA, quienes se encargan de recoger, guardar y difundir diversas investigaciones aeronáuticas y aereoespaciales que se realizan en la sede de las operaciones de vuelos espaciales humanos. De esta manera, obtendrán la confidencialidad que necesitan para guardar sus indagaciones, hallazgos recientes en el espacio o materiales tecnológicos que implementarán para el desarrollo de sus estudios.
 ## Clave Incógnita
 * La función principal de esta página Web es que nuestros usuarios puedan enviar y recibir distintos mensajes que requieran máxima discreción y cuidado, por lo que los codificamos y solo se podrán descifrar con la contraseña que se les asigne, el cuál debe ser ingresada en el primer intento, de lo contrario, será deshabilitada por un día. De este modo, nuestro objetivo es evitar la presencia de hackers.
-## 
+## Enlace Git Hub page
+* [link:] (https://marisolsolisflores.github.io/CodigoEnigma/)
+## Enlace de Replit
+* [link:] (https://CodigoEnigma.marisolsolisflores.repl.co)
