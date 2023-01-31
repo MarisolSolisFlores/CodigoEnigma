@@ -1,0 +1,23 @@
+body{
+  color: #d400ff;
+  background-image: url(https://www.softzone.es/app/uploads-softzone.es/2017/01/Cifrado-de-datos-1.png);
+  background-size: cover;
+  background-repeat: none;
+  padding: 23px;
+  text-align: center;
+}
+
+h1{
+  color: red;
+  font-family: courier;
+  font-size: 65px;
+}
+
+button{
+  font-family: fantasy;
+  background-color: yellow;
+  border-radius: 15px;
+  border: solid blue;
+  size: 30px;
+}
+

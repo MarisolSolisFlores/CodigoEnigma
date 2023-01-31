@@ -1,0 +1,37 @@
+body{
+  color: white;
+  background-image: url(https://media.istockphoto.com/id/1414174521/es/foto/2023-texto-con-c%C3%B3digo-binario.jpg?s=612x612&w=0&k=20&c=BNkk0Ar3t_Aw_ozZyVm8iXEonf2CXmsEnBDZJOZBxD4=);
+  background-size: cover;
+  background-repeat: none;
+  padding: 3px;
+  text-align: center;
+
+}
+
+h1{
+  color: white;
+  font-family: courier;
+  font-size: 65px;
+  text-align: center;
+}
+
+button{
+  font-family: courier;
+  background-color: yellow;
+  border-radius: 15px;
+  border: solid blue;
+  size: 20px;
+  padding: 12px;
+}
+
+textarea{
+  resize: none;
+}
+
+.boton{
+  background-color: yellow;
+  border: solid 6px black;
+  border-radius: 15px;
+  padding: 10px;
+  
+}
