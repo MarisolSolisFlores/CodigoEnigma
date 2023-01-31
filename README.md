@@ -6,6 +6,6 @@
 ## Clave Incógnita
 * La función principal de esta página Web es que nuestros usuarios puedan enviar y recibir distintos mensajes que requieran máxima discreción y cuidado, por lo que los codificamos y solo se podrán descifrar con la contraseña que se les asigne, el cuál debe ser ingresada en el primer intento, de lo contrario, será deshabilitada por un día. De este modo, nuestro objetivo es evitar la presencia de hackers.
 ## Enlace Git Hub page
-* [link:] (https://marisolsolisflores.github.io/CodigoEnigma/)
+* [link](https://marisolsolisflores.github.io/CodigoEnigma/)
 ## Enlace de Replit
-* [link:] (https://CodigoEnigma.marisolsolisflores.repl.co)
+* [link](https://CodigoEnigma.marisolsolisflores.repl.co)
